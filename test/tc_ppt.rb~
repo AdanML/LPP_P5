@@ -31,7 +31,5 @@ def test_variety
 	assert(answer.uniq.lenght >= 3, "answers.uniq.length = #{answer.uniq.length} answer.length = #{answer.length}")
 end
 
-end
-
 
 
